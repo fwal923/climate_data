@@ -1,7 +1,7 @@
 # climate_data
 This repo lets you download the final tables for my climate data map dashboard on Tableau Public.
 
-Please note that, whilst I did generate the tables, the data within the tables was sourced from wikipedia, google maps, and a citymapper. Links to the references can be found on the "Data info" dash in the Tableau dashboard, a link to the dashboard and a description of my method are outlined below.
+Please note that, whilst I did generate the tables, the data within the tables was sourced from wikipedia, google maps, and a citymapper. Links to the references can be found on the "Data info" dash in the Tableau dashboard. A link to the dashboard and a description of my method are outlined below.
 
 Link to the map:
 https://public.tableau.com/app/profile/fiona.walter923/viz/ClimateDataMap/Dashboard1
