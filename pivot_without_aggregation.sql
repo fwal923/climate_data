@@ -1,3 +1,4 @@
+-- this is an UNPIVOT to avoid aggregation. alternative to this is a pivot for strings with a workaround for the aggregation issue (can be found in my gists)
 SELECT
 -- below: add list of columns you want in the table
 Country, City, Month, Average_Temperature_F
